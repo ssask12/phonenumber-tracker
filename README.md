@@ -2,7 +2,7 @@
 ### Track phonenumber using python
 <p>Hi Guys , This just a simple desktop application made using Tkinter for them aim of tracking the country through phone number.</P>
 
-<p>The full article on how on how to build a phone number tracker is originally published on </p>
+<p>The full article on how on how to build a phone number tracker is originally published on https://coder-tube.blogspot.com/2022/09/how-to-create-phone-number-tracking-app.html</p>
 <h3>Let's get started</h3>
 <p>First of all just clone the repository using git command or using by clicking download zip button</p>
 
